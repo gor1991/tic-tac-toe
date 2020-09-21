@@ -1,4 +1,13 @@
 
-h2 {
-    color: red;
+.row {
+    display: block;
+}
+.point {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border: 2px solid red;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
 }
